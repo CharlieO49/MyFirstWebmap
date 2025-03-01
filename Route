@@ -107,7 +107,7 @@
 
 //options to be used when creating the map
 		var options = {
-			center: [36.08403, -81.83015],
+			center: [36.214323, -81.659865],
 			zoom: 16
 		}
 
